@@ -36,5 +36,5 @@ node seed.js
 ## Test Accounts
 | Role | Email | Password |
 |------|-------|----------|
-| Interviewee | pushpendra@test.com | password123 |
-| Interviewer | aarav@prept.com | password123 |
+| Interviewee | mt@gmail.com | 123456 |
+
